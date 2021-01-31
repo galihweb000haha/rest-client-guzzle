@@ -1,0 +1,12 @@
+{
+    "name": "sisfo360/restclient",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3.0"
+    },
+    "authors": [
+        {
+            "name": "galih fikran",
+            "email": "galih11120@gmail.com"
+        }
+    ]
+}
